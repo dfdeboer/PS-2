@@ -21,11 +21,6 @@ further edited before the commit.
 branch
 
 checkout
-Zachary Sanford
-The command "git checkout <feature_branch/HASH>" means looking at previous snapshots
-made on any branch. The checkout command will bring you to the TIP of a branch or using
-the HASH will bring you to a "dettached-head". When you are using "dettached-head" it is
-wise not to edit until you create a new branch.
 
 clone
 Nolan Vande Griend
@@ -36,6 +31,12 @@ and unmodified condition and also initialize the directory into a repository.
 commit
 
 config
+Zachary Sanford
+The command "git config" helps the user to setup their configuration
+for how your personal system works and the preferences that you want.
+This includes email addres and editor preference before we even got
+started using Git. If you "git config --global <other stuff>" then
+the command goes out to the whole folder.
 
 diff
 
