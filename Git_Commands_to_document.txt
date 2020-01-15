@@ -50,8 +50,6 @@ This command creates a new repository. It can create from existing files or
 make a empty repository.
 
 log
-Charles Young
-The command "git log" will display of all previous commits along with their hash codes
 
 merge 
 Ty White
@@ -64,6 +62,9 @@ push
 remote
 
 rm
+Dan Kelly
+the command 'git rm' operates on the working directory and staging index. is 
+used to remove a file from a Git repository.
 
 stash
 Shane Tinklenberg
@@ -71,9 +72,12 @@ A "git stash" is a method of storing uncommitted changes on a branch away so tha
 
 status
 <<<<<<< HEAD
+<<<<<<< HEAD
 Patrick Munsey
 The "git status" command will display the current stage that each of your documents within a file are currently sitting. 
 Whether they are Untracked, Tracked unmodified, Tracked modified, or staged; the document will show up with a color code and related labels.
+=======
+>>>>>>> b5820d6362b25312ff76ceee0f02ff5e8dc99a03
 =======
 
 
