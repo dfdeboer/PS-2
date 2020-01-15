@@ -21,6 +21,9 @@ further edited before the commit.
 branch
 
 checkout
+Stefan Walicord
+The checkout command lets you switch between branches on your project. The contents of the file are updated to the 
+branch you just checked out.
 
 clone
 Nolan Vande Griend
@@ -31,12 +34,17 @@ and unmodified condition and also initialize the directory into a repository.
 commit
 
 config
+Kyle Waas 
+The command is a function that is used to set git configuration values on a global or local project.
+Example we set a global config to what editor we would using for every git we commit. 
 
 diff
 
 init
 
 log
+Charles Young
+The command "git log" will display of all previous commits along with their hash codes
 
 merge 
 
