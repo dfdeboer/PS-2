@@ -29,7 +29,11 @@ copied exactly as it was from the url. The files will arrive in a tracked
 and unmodified condition and also initialize the directory into a repository. 
 
 commit
-
+Matthew Van Eps
+The "git commit" commamnd takes a snapshot of the current state of the git repo. Associated with each commit
+is a hash that allows users to go back and checkout that specific snapshot in the past and to view 
+previous snapshots. Included with each commit is a message that allows usersto indicate what changes were made 
+in that specific snapshot.
 config
 
 diff
