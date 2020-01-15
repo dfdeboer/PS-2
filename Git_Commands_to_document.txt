@@ -21,6 +21,9 @@ further edited before the commit.
 branch
 
 checkout
+Stefan Walicord
+The checkout command lets you switch between branches on your project. The contents of the file are updated to the 
+branch you just checked out.
 
 clone
 Nolan Vande Griend
@@ -29,16 +32,30 @@ copied exactly as it was from the url. The files will arrive in a tracked
 and unmodified condition and also initialize the directory into a repository. 
 
 commit
-
+Matthew Van Eps
+The "git commit" commamnd takes a snapshot of the current state of the git repo. Associated with each commit
+is a hash that allows users to go back and checkout that specific snapshot in the past and to view 
+previous snapshots. Included with each commit is a message that allows usersto indicate what changes were made 
+in that specific snapshot.
 config
+Kyle Waas 
+The command is a function that is used to set git configuration values on a global or local project.
+Example we set a global config to what editor we would using for every git we commit. 
 
 diff
 
 init
+Lucas Nelson
+This command creates a new repository. It can create from existing files or
+make a empty repository.
 
 log
 
 merge 
+Ty White
+The command "git merge topic" will relay the changes made on the topic branch 
+since it diverged from the master branch until its current commit on top of 
+master, and record the result in a new commit.
 
 push
 
@@ -50,5 +67,12 @@ the command 'git rm' operates on the working directory and staging index. is
 used to remove a file from a Git repository.
 
 stash
+Shane Tinklenberg
+A "git stash" is a method of storing uncommitted changes on a branch away so that they can later be applied on a branch of your choosing. Stashes are able to be applied later when necessary.
 
 status
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 232b37acc361c8aa18c424a4076a5c31dea55c2a
