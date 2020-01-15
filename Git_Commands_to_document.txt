@@ -21,6 +21,11 @@ further edited before the commit.
 branch
 
 checkout
+Zachary Sanford
+The command "git checkout <feature_branch/HASH>" means looking at previous snapshots
+made on any branch. The checkout command will bring you to the TIP of a branch or using
+the HASH will bring you to a "dettached-head". When you are using "dettached-head" it is
+wise not to edit until you create a new branch.
 
 clone
 Nolan Vande Griend
