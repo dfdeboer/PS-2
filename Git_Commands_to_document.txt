@@ -37,6 +37,8 @@ diff
 init
 
 log
+Charles Young
+The command "git log" will display of all previous commits along with their hash codes
 
 merge 
 
