@@ -37,6 +37,10 @@ diff
 init
 
 log
+Dan Kelly
+the command takes options apllicable to the 'git rev-list' command to control
+what is shown and how, and options applicable to the 'git diff-*' commands to 
+control how the changes each commit introduces are shown.
 
 merge 
 
@@ -49,4 +53,3 @@ rm
 stash
 
 status
-
