@@ -41,6 +41,9 @@ Example we set a global config to what editor we would using for every git we co
 diff
 
 init
+Lucas Nelson
+This command creates a new repository. It can create from existing files or
+make a empty repository.
 
 log
 Charles Young
@@ -57,4 +60,5 @@ rm
 stash
 
 status
+
 
