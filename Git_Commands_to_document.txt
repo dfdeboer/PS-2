@@ -21,6 +21,9 @@ further edited before the commit.
 branch
 
 checkout
+Stefan Walicord
+The checkout command lets you switch between branches on your project. The contents of the file are updated to the 
+branch you just checked out.
 
 clone
 Nolan Vande Griend
