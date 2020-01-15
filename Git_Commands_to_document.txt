@@ -39,6 +39,10 @@ init
 log
 
 merge 
+Ty White
+The command "git merge topic" will relay the changes made on the topic branch 
+since it diverged from the master branch until its current commit on top of 
+master, and record the result in a new commit.
 
 push
 
