@@ -23,7 +23,10 @@ branch
 checkout
 
 clone
-
+Nolan Vande Griend
+The command "git clone <url>" will bring into your directory a repository
+copied exactly as it was from the url. The files will arrive in a tracked
+and unmodified condition and also initialize the directory into a repository.
 commit
 
 config
