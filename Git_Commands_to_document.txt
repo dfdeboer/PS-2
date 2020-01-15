@@ -62,6 +62,8 @@ remote
 rm
 
 stash
+Shane Tinklenberg
+A "git stash" is a method of storing uncommitted changes on a branch away so that they can later be applied on a branch of your choosing. Stashes are able to be applied later when necessary.
 
 status
 
