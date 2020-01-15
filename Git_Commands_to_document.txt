@@ -34,6 +34,9 @@ and unmodified condition and also initialize the directory into a repository.
 commit
 
 config
+Kyle Waas 
+The command is a function that is used to set git configuration values on a global or local project.
+Example we set a global config to what editor we would using for every git we commit. 
 
 diff
 
