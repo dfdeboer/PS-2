@@ -86,4 +86,7 @@ can later be applied on a branch of your choosing. Stashes are able to be applie
 when necessary.
 
 status
-
+Patrick Munsey
+The "git status" command will display the current stage that each of your documents within a 
+file are currently sitting. Whether they are Untracked, Tracked unmodified, Tracked modified, 
+or staged; the document will show up with a color code and related labels.
