@@ -19,6 +19,10 @@ The files are now ready for a commit (snapshot), presuming they are not
 further edited before the commit.  
 
 branch
+Ryan Zevenbergen
+The command "git branch <name>" creates a new commit off of a previous commit.
+This allows new edits to occur in a parallel version of the software. Said
+edits may be committed as normal, but they will only occur on the <name> branch.
 
 checkout
 Stefan Walicord
