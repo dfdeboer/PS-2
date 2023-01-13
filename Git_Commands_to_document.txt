@@ -1,0 +1,61 @@
+Problem Set #2, EGR 304 Spring 2023
+
+Below are some git commands, more than one for each student in EGR 304.
+Add your name just below one of the commands listed below.
+Write some documentation for that command on a few lines underneath 
+your name. By way of example, Prof. dDB has done this for the "add"
+command.  Do your work in the same style.    
+
+Save the file, add it, commit it, and push it back up to professor De Boer's repository.
+If your push is rejected, use "git pull origin <filename>" to merge the work of 
+others into your file and then add (stage), commit, and push the file again. 
+
+Commands to briefly document
+----------------------------
+add
+Douglas De Boer
+The command, "git add <filespec>" converts the targeted file(s) from 
+tracked-modified status or from untracked status to tracked-staged status.  
+The files are now ready for a commit (snapshot), presuming they are not 
+further edited before the commit.  
+
+branch
+
+
+checkout
+
+
+Zachary Sanford
+
+
+clone
+
+
+commit
+
+
+config
+
+
+diff
+
+init
+
+
+log
+
+
+merge 
+
+
+push
+
+remote
+
+rm
+
+
+stash
+
+
+status
