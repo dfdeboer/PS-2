@@ -38,6 +38,8 @@ config
 diff
 
 init
+Peyton Miller
+'init' is a command that can create a new repository or change an existing one.
 
 
 log
