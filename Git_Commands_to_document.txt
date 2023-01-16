@@ -29,6 +29,11 @@ clone
 
 
 commit
+Jacob Olthoff
+The command, "git commit" command takes a snapshot of the staged files
+and will open a comment file where you can note the changes that you
+made as well as any other comments you wish to make.  Once the command
+has executed, it is ready to be pushed.
 
 
 config
