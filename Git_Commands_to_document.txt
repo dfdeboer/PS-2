@@ -26,7 +26,12 @@ checkout
 
 
 clone
-
+Eddie Mulder
+The "git clone" command finds an existing repository (one that is either on the local filesystem or on the GitHub cloud) 
+and makes a clone of that repository to be placed in the user's current working directory. The cloned repository will have all 
+of the identical files in the original repository that can now be edited, added, commited, and pushed back to the original repository by 
+the current user. Files can also be pulled into the cloned repository from the original repository in the event that a file is updated 
+by another user.
 
 commit
 
