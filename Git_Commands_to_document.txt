@@ -30,10 +30,19 @@ clone
 
 commit
 <<<<<<< HEAD
+<<<<<<< HEAD
 Chris Dyk 
 The command, "git commit" creates a new commit of the contents of the
 index created by the "git add" command and adds a message describing the changes. The branch is usually 
 updated to point to the new commit.
+=======
+Jacob Olthoff
+The command, "git commit" command takes a snapshot of the staged files
+and will open a comment file where you can note the changes that you
+made as well as any other comments you wish to make.  Once the command
+has executed, it is ready to be pushed.
+
+>>>>>>> 7303d6d9524e65c4b608828349c55adfdca6c13e
 =======
 Logan Van Itallie
 The command, "git commit" takes the current staged files and saves them as the latest version on the tree. This also prompts for a comment on the edits made, to ease searching in the future. 
