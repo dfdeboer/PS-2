@@ -29,7 +29,10 @@ clone
 
 
 commit
-
+Chris Dyk 
+The command, "git commit" creates a new commit of the contents of the
+index created by the "git add" command and adds a message describing the changes. The branch is usually 
+updated to point to the new commit.
 
 config
 
