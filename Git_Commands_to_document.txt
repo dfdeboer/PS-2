@@ -23,6 +23,8 @@ branch
 
 
 checkout
+Noah Stueber
+The command, "git checkout" pdates files in the working tree to match the version in the index or the specified tree
 
 
 clone
