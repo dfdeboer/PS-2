@@ -29,7 +29,8 @@ clone
 
 
 commit
-
+Logan Van Itallie
+The command, "git commit" takes the current staged files and saves them as the latest version on the tree. This also prompts for a comment on the edits made, to ease searching in the future. 
 
 config
 
