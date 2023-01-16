@@ -69,6 +69,8 @@ log
 
 
 merge 
+Tong Mu
+Merge command fold the branches
 
 
 push
